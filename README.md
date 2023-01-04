@@ -15,10 +15,7 @@
 ## Technologies
 - Linux Shell Script 🧩 
 - Zenity 🧩
-- Linux Zip & Unzip Commands 🧩
-
-## Features
-*  ✨ 
+- Linux grep command 🧩
 
 ## Installing
 
@@ -37,41 +34,24 @@ Note: This example is for the Ubuntu distribution. The package manager and the c
 yum install zenity
 ```
 
-Also, this code will work on a system that has the zip and unzip commands pre-installed. If the commands are not installed, you must first install the commands.
-For example, in the Ubuntu distribution, the package manager is apt and you use the "apt-get install" command to install commands. In the Fedora distribution, the package manager is dnf and you use the "dnf install" command to install commands.
-
-For example, you can use the following commands to install the zip and unzip commands:
-
-Ubuntu:
-```
-sudo apt-get install zip unzip
-```
-Fedora:
-```
-sudo dnf install zip unzip
-```
-After running these commands in the terminal, you are ready to use the zip and unzip commands. You can use them in a bash script running on a system where the commands are installed.
-
-Note: These examples are for the Ubuntu and Fedora distributions. The package manager and the commands to install commands may be different in a different distribution. For example, in the CentOS distribution, the package manager is yum.
-
 ### Running the Tests
 
 Copy the following commands to your terminal screen in order. It clones this repository, goes to the relevant directory with the cd command and runs the project file.
 ```
-git clone https://github.com/SabaUrgup/Compress-Extract-GUI.git
+git clone https://github.com/SabaUrgup/Search.git
 ```
 ```
-cd Compress-Extract-GUI
+cd Search
 ```
 ```
-bash ZipUnzip.sh
+bash grep.sh
 ```
 
 And also 🚨 
 
 If you want, you can download the project by selecting the Download ZIP option from the top right, access the location where you extracted the folder from the terminal and access it.
 ```
-bash ZipUnzip.sh
+bash grep.sh
 ``` 
 
 ## Authors & Contact
@@ -82,7 +62,7 @@ Created by **Saba ÜRGÜP**  [@SabaUrgup](https://github.com/SabaUrgup) - You ca
 
 Some websites were consulted for library and commands.
 
-* [Javatpoint Zip Unzip Commands](https://www.javatpoint.com/how-to-unzip-files-in-linux)
+* [Javatpoint Grep Command](https://www.javatpoint.com/linux-grep)
 * [Zenity](https://wiki.ubuntu-tr.net/index.php?title=Zenity_ile_kabuk_proglamlama)
 * [Zenity GUI Options](https://ostechnix.com/zenity-create-gui-dialog-boxes-in-bash-scripts/)
 * [Zenity Projects](https://funprojects.blog/tag/zenity/)
@@ -103,11 +83,7 @@ This project is licensed under the MIT License.
 
 - Linux Shell Script 🧩
 - Zenity 🧩
-- Linux Zip & Unzip Komutları 🧩
-
-## Özellikler
-
-* ✨ 
+- Linux grep komutu 🧩
 
 ## Kurulum 
 
@@ -126,42 +102,25 @@ Not: Bu örnek Ubuntu dağıtımı içindir. Farklı bir dağıtımda paket yön
 yum install zenity
 ```
 
-Ayrıca, bu kod zip ve unzip komutlarının önceden yüklü olduğu bir sistemde çalışacaktır. Eğer komutlar yüklü değilse, öncelikle komutları yüklemeniz gerekir. 
-Örneğin, Ubuntu dağıtımında paket yöneticisi apt'tir ve komutları yüklemek için "apt-get install" komutunu kullanırsınız. Fedora dağıtımında ise paket yöneticisi dnf'dir ve komutları yüklemek için "dnf install" komutunu kullanırsınız.
-
-Örneğin, zip ve unzip komutlarını yüklemek için aşağıdaki komutları kullanabilirsiniz:
-
-Ubuntu:
-```
-sudo apt-get install zip unzip
-```
-Fedora:
-```
-sudo dnf install zip unzip
-```
-Bu komutları terminalde çalıştırdıktan sonra, zip ve unzip komutlarını kullanmaya hazırsınız. Bu komutların yüklü olduğu bir sistemde çalışan bir bash script içinde kullanabilirsiniz.
-
-Not: Bu örnekler Ubuntu ve Fedora dağıtımları içindir. Farklı bir dağıtımda paket yöneticisi ve komutları yükleme komutları farklı olabilir. Örneğin, CentOS dağıtımında paket yöneticisi yum'dur
-
 ### Çalıştırma ve Test
 
 Aşağıdaki komutları sırayla terminal ekranınıza kopyalayın. Komutlar; bu repoyu klonlar, cd komutu ile ilgili dizine gider ve proje dosyasını çalıştırır.
 
 ```
-git clone https://github.com/SabaUrgup/Compress-Extract-GUI.git
+git clone https://github.com/SabaUrgup/Search.git
 ```
 ```
-cd Compress-Extract-GUI
+cd Search
 ```
 ```
-bash ZipUnzip.sh
+bash grep.sh
 ```
 
 Ayrıca  🚨 
 
 İsterseniz projeyi sağ üstten Download ZIP seçeneğini seçerek indirebilir, klasörü çıkarttığınız konuma terminalden erişip aşağıdaki komutu yazarak da projeyi çalıştırabilirsiniz.
 ```
-bash ZipUnzip.sh
+bash grep.sh
 ``` 
 
 ## Yazar ve İletişim
@@ -172,7 +131,7 @@ Oluşturan **Saba ÜRGÜP** [@SabaUrgup](https://github.com/SabaUrgup) - Benimle
 
 Bazı web siteleri; kütüphane ve komutlar için kullanıldı.
 
-* [Javatpoint Zip Unzip Komutları](https://www.javatpoint.com/how-to-unzip-files-in-linux)
+* [Javatpoint Grep Komutu](https://www.javatpoint.com/linux-grep)
 * [Zenity](https://wiki.ubuntu-tr.net/index.php?title=Zenity_ile_kabuk_proglamlama)
 * [Zenity GUI Bileşenleri](https://ostechnix.com/zenity-create-gui-dialog-boxes-in-bash-scripts/)
 * [Zenity Projeleri](https://funprojects.blog/tag/zenity/)
