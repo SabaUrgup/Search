@@ -1,9 +1,10 @@
 <h1 align="left"> Linux Shell Script GUI Program </h1>
-➤ 
 
-- [EN : Description :boom:](#en)  
+![Search](https://user-images.githubusercontent.com/76062971/210665216-ad0584ed-a134-46f9-9ce9-064f96f140f0.jpeg)
+
+- [EN : Description :boom:](#en) 
 - [TR : Açıklama :boom:](#tr)
-
+-  [Youtube Link](https://youtu.be/4iLZMrs8mpk)
 ****
 
  #### [EN]
