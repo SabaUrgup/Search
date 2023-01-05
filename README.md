@@ -4,7 +4,7 @@
 
 - [EN : Description :boom:](#en) 
 - [TR : Açıklama :boom:](#tr)
--  [Youtube Link](https://youtu.be/4iLZMrs8mpk)
+-  [Youtube Link  :boom:](https://youtu.be/4iLZMrs8mpk)
 ****
 
  #### [EN]
@@ -12,6 +12,9 @@
 `This project is a GUI Dialog Box that developed on Linux Bash Script with Zenity technologies for the BTU BLM0365 Linux Tools and Shell Programming Lecture.`
 
 # Project Details: Zip & Unzip Program :bomb:
+First of all, let me inform you about the grep command I use in my code, it searches for patterns specified in a file or output and writes the matching lines.
+
+In my project the code opens a text input window and a file select window with Zenity. The user selects the word and file they want to search through these windows. The results are then printed to the screen in a text information window with Zenity.
 
 ## Technologies
 - Linux Shell Script 🧩 
@@ -79,6 +82,9 @@ This project is licensed under the MIT License.
 `Bu proje, BTÜ BLM0365 Linux Araçları ve Kabuk Programlama Dersi için Linux Bash Script ve Zenity teknolojileri ile geliştirilmiş bir GUI programıdır.`
 
 # Proje Detayları: Zip & Unzip Programı :bomb: 
+Öncellikle kodumda kullandığım grep komutu hakkında bilgi vereyim, komut bir dosya veya çıktıda belirtilen örüntüleri aramaya yarar ve eşleşen satırları yazar. 
+
+Projemde kod Zenity ile bir metin girişi penceresi ve bir dosya seçme penceresi açar. Kullanıcı bu pencereler üzerinden arama yapmak istediği kelimeyi ve dosyayı seçer. Sonrasında sonuçlar ekrana Zenity ile bir metin bilgi penceresinde yazdırılır.
 
 ## Teknolojiler
 
