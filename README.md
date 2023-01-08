@@ -4,7 +4,7 @@
 
 - [EN : Description :boom:](#en) 
 - [TR : Açıklama :boom:](#tr)
--  [Youtube Link  :boom:](https://youtu.be/4iLZMrs8mpk)
+
 ****
 
  #### [EN]
